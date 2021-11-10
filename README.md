@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1> Hi, I'm Alejandro <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width=40/></h1>
+
+
+
+<img src="https://cdn.pixabay.com/photo/2021/11/10/06/36/06-36-34-157_960_720.jpg"/>
+
+Soy desarrollador web con amplios conocimientos en JavaScript junto a varios de sus como lo son react.js, next.js, node.js
+tambien manejo lenguajes como Typescript y Python, tengo conocimientos en gestiones de proyecto y metodologias agiles.
 
 <!--
 **Shiyoki/Shiyoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
