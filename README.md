@@ -4,7 +4,7 @@
 
 <img src="https://cdn.pixabay.com/photo/2021/11/10/06/36/06-36-34-157_960_720.jpg"/>
 
-Soy desarrollador web con amplios conocimientos en JavaScript junto a varios de sus como lo son react.js, next.js, node.js
+Soy desarrollador web con amplios conocimientos en JavaScript junto a varios de sus frameworks y librerias como lo son react.js, next.js, node.js
 tambien manejo lenguajes como Typescript y Python, tengo conocimientos en gestiones de proyecto y metodologias agiles.
 
 <!--
