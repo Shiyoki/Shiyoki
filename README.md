@@ -1,6 +1,4 @@
-<h1> Hi, I'm Alejandro <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width=40/></h1>
-
-
+<h1> Hi, I'm Alejandro <img 
 
 <img src="https://cdn.pixabay.com/photo/2021/11/10/06/36/banner-6783034_960_720.jpg"/>
 
